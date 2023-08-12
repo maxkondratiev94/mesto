@@ -10,6 +10,7 @@ HTML, CSS, Grid Layout, Flexbox, Nested БЭМ, JS
 
 ###   Ссылка на проект:
 
+    https://maxkondratiev94.github.io/mesto/
 
 ###  Автор:
 
