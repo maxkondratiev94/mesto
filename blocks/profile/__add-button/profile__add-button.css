@@ -1,24 +1,24 @@
-.profile__add-button{
-    margin: 0 0 0 auto;
-    padding: 0;
-    min-width: 150px;
-    min-height: 50px;
-    border: 2px solid #FFF;
-    border-radius: 2px;
-    transition: all 0.5s ease-in-out;
-    background: transparent url(../../../images/Add\ Button.svg) no-repeat center;
-  }
-  
-  .profile__add-button:hover{
-    opacity: 0.4;
-    cursor: pointer;
-  }
+.profile__add-button {
+  margin: 0 0 0 auto;
+  padding: 0;
+  min-width: 150px;
+  min-height: 50px;
+  border: 2px solid #fff;
+  border-radius: 2px;
+  transition: all 0.5s ease-in-out;
+  background: transparent url(../../../images/AddButton.svg) no-repeat center;
+}
 
-  @media screen and (max-width: 650px) {
-    .profile__add-button {
-      width: 282px;
-      height: 50px;
-      background: transparent url(../../../images/Vector.svg) no-repeat center;
-      margin: 36px auto 36px auto;
-    }
+.profile__add-button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 650px) {
+  .profile__add-button {
+    width: 282px;
+    height: 50px;
+    background: transparent url(../../../images/Vector.svg) no-repeat center;
+    margin: 36px auto 36px auto;
   }
+}

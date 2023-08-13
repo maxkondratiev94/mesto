@@ -1,6 +1,7 @@
-.element__mask-group{
-    max-width: 282px;
-    max-height: 282px;
-    border-radius: 10px 10px 0 0;
-  }
-  
+.element__mask-group {
+  width: 282px;
+  height: 282px;
+  border-radius: 10px 10px 0 0;
+  display: block;
+  object-fit: contain;
+}

@@ -1,8 +1,10 @@
 .popup__user-info {
-    display: flex;
-    flex-direction: column;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: normal;
-    border: none;
-  }
+  display: flex;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: normal;
+  border: none;
+}
